@@ -1,5 +1,7 @@
 # A Go client library for the Apple Maps Server API
 
+![header_img](https://github.com/jweckschmied/applemaps-go/assets/33632397/1acf73bd-5053-404b-89f8-3c31b0822515)
+
 To learn about the Apple Maps Server API and all its methods, check the official documentation here: 
 https://developer.apple.com/documentation/applemapsserverapi
 
