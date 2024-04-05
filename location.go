@@ -22,7 +22,7 @@ type (
 		Country               string            `json:"country"`
 		CountryCode           string            `json:"countryCode"`
 		DisplayMapRegion      MapRegion         `json:"displayMapRegion"`
-		FormattedAddressLines []string          `json:"formattedAddressLine"`
+		FormattedAddressLines []string          `json:"formattedAddressLines"`
 		Name                  string            `json:"name"`
 		Coordinate            Location          `json:"coordinate"`
 		StructuredAddress     StructuredAddress `json:"structuredAddress"`
